@@ -9,12 +9,12 @@ public class ArrayListIterator {
 		//different ways to iterate an ArrayList
 
 		ArrayList<String> names = new ArrayList<String>();
-		names.add("Pari");
-		names.add("Swastik");
-		names.add("Shreeya");
-		names.add("Sanjay");
-		names.add("Chhunu");
-		names.add("Munu");
+		names.add("papu");
+		names.add("sonali");
+		names.add("shri");
+		names.add("soni");
+		names.add("cinu");
+		names.add("minu");
 		
 		// 1st way, by using Iterator
 		System.out.println("---- by using Iterator -----");

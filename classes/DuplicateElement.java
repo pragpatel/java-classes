@@ -7,7 +7,7 @@ public class DuplicateElement {
 
 	public static void main(String[] args) {
 
-		String name[] = { "pari", "shreeya", "swastik", "suna", "munu", "suna", "shreeya" };
+		String name[] = { "papu", "shri", "sona", "sina", "minu", "sina", "shri" };
 		// solution #1, using 2 for loop
 
 		for (int i = 0; i < name.length; i++) {
